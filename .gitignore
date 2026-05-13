@@ -1,0 +1,7 @@
+env_healthcare/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+media/
+.env
